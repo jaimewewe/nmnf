@@ -48,6 +48,7 @@
 .tabrl-tb .tabrl-dts i { color: var(--tabitha); } 
 
 .tabrl-tb u { text-decoration: none; color: var(--tabitha); font-weight: 600; } 
+.tabrl-tb i { --group: initial; }
 
 .tabrl-tb:after { 
   display: block; 
@@ -59,7 +60,7 @@
   margin: 50px -50px; 
 }
 
-/* FIRMA */
+/* FIRMA BLOSSOM FT. SKYFALL */
 .sig-tb {
   width: 302px;
   height: 182px;
@@ -76,8 +77,6 @@
   overflow: hidden;
   position: absolute;
 }
-
-
 
 .sig-tb .sig-txt::-webkit-scrollbar {
   width: 0px;
