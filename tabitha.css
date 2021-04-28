@@ -127,6 +127,7 @@
   border: var(--border1);
   background: var(--tbckg2);
   margin-bottom: 5px;
+  line-height: 0px;
 }
 
 .trnk-tb .trnk-head {
