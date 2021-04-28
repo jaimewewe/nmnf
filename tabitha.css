@@ -312,6 +312,7 @@
   bottom: 2px;
   width: 30px;
   display: block;
+  color: var(--dbckg0);
 }
 
 .trnk-stats .stats-lgnd {
