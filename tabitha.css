@@ -126,7 +126,7 @@
   min-height: 550px;
   border: var(--border1);
   background: var(--tbckg2);
-  margin-bottom: 5px;
+  margin: 0px auto 5px;
   line-height: 0px;
 }
 
