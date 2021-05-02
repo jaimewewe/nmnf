@@ -35,6 +35,10 @@
   color: var(--tabitha);
 } 
 
+.tabrl-tb .tabrl-tit c {
+  text-transform: none;
+} 
+
 .tabrl-tb .tabrl-dts {
   font-family: 'Roboto Mono'; 
   color: #aaa; 
