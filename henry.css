@@ -1,0 +1,47 @@
+:root {
+  --henry: #AD733D;
+}
+
+@font-face { font-family: 'Heathers'; src: url('https://jaimewewe.github.io/nmnf/Heaters.otf'); }
+
+/* TABLILLA DE ROL*/
+.tabrl-hvk {
+  width: 350px; 
+  padding: 50px; 
+  border: var(--border1);
+  margin: auto;
+} 
+
+.tabrl-hvk .tabrl-tit {
+  font-family: 'Heathers'; 
+  font-size: 35px; 
+  text-align: center; 
+  line-height: 80%; 
+  text-transform: uppercase; 
+  letter-spacing: 1px;
+  color: var(--henry);
+} 
+
+.tabrl-hvk .tabrl-dts {
+  font-family: 'Roboto Mono'; 
+  color: #aaa; 
+  text-align: center; 
+  text-transform: uppercase; 
+  font-size: 8px; 
+  margin-top: 5px; 
+  margin-bottom: 10px;} 
+
+.tabrl-hvk .tabrl-dts i { color: var(--henry); } 
+
+.tabrl-hvk u { text-decoration: none; color: var(--henry); font-weight: 600; } 
+.tabrl-hvk i { --group: initial; }
+
+.tabrl-hvk:after { 
+  display: block; 
+  content: ""; 
+  width: 150px; 
+  height: 1px; 
+  background: var(--henry); 
+  position: absolute; 
+  margin: 50px -50px; 
+}
