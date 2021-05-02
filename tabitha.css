@@ -22,8 +22,7 @@
 .tabrl-tb {
   width: 350px; 
   padding: 50px; 
-  border: var(--border1); 
-  min-height: 300px;
+  border: var(--border1);
   margin: auto;
 } 
 
